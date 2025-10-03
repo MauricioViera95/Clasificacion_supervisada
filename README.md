@@ -1,6 +1,33 @@
 # Clasificacion_supervisada
 Este repositorio contiene algoritmos de clasificación supervisada aplicados a la distinción de suelo permeable  a partir de ortofotos y datos vectoriales. El flujo de trabajo incluye generación de muestras, extracción de características, PCA, entrenamiento, validación cruzada, optimización de hiperparámetros y aplicación de los modelos.
 
+📂 Datos
+El proyecto utiliza una estructura estándar de directorios para organizar insumos y datos procesados:
+
+INSUMOS/   # Archivos de entrada (ortofotos, vectores, etc.)
+
+DATA/      # Datos procesados y salidas de modelos
+
+🔗 Opción 1: Datos ya organizados en Google Drive
+
+Puedes acceder directamente a la estructura completa (INSUMOS y DATA) en el siguiente enlace:
+
+👉 https://drive.google.com/drive/folders/1bAoQoRNwwrQ80NHqpTCJstQLO003U4NS
+
+
+🔗 Opción 2: Descarga desde fuentes oficiales
+
+Si prefieres armar la estructura desde cero:
+
+* Ortofotos PNOA → disponibles en la web oficial del Instituto Geográfico Nacional:
+
+      https://pnoa.ign.es/pnoa-imagen/productos-a-descarga
+
+* Datos de cobertura del suelo SIOSE → descargables desde el Centro de Descargas del CNIG:
+
+      https://centrodedescargas.cnig.es/CentroDescargas/siose
+  
+
 📂 Estructura de archivos
 🔧 Configuración y utilidades
 
